@@ -93,9 +93,11 @@ footer {
     font-size: 13px;
     margin: 20px 0;
 
+}
 
-form {
+form { 
     margin: 40px 0;
+    padding: 50px;
 }
 
 form label, form legend {
@@ -130,11 +132,10 @@ form label, form legend {
 
 .enviar:hover {
     background: darkorange;
-    transform: scale(1.2);
 }
 
 table {
-    margin: 20px 0 40px;
+    margin: 20px 230px 40px;
 }
 
 thead {
@@ -267,3 +268,4 @@ td, th {
         margin-bottom: 20px1;
         width: 100%;
     }
+}
